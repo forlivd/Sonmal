@@ -15,6 +15,10 @@
 The project was carried out with the aim of expanding the right to interpret sign language.)
 
 
+**앱스토어**
+
+https://play.google.com/store/apps/details?id=com.d202.sonmal
+
 
 <br/>
 
@@ -26,10 +30,6 @@ The project was carried out with the aim of expanding the right to interpret sig
 [2. 담당역할 및 구현](#담당역할-및-구현)
 
 ## 개요
-
-**앱스토어**
-
-https://play.google.com/store/apps/details?id=com.d202.sonmal
 
 
 
