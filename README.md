@@ -11,7 +11,7 @@
 수어 통역권 확장을 목표로 프로젝트를 진행하였습니다.
 <br/>
 
-*앱스토어* <a> https://play.google.com/store/apps/details?id=com.d202.sonmal
+*앱스토어* : https://play.google.com/store/apps/details?id=com.d202.sonmal
 
 # 목차
 
