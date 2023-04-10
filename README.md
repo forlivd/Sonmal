@@ -19,8 +19,13 @@ The project was carried out with the aim of expanding the right to interpret sig
 <br/>
 
 ---
+# 목차
 
-# 개요
+[1. 개요](#개요)
+
+[2. 담당역할 및 구현](#담당역할-및-구현)
+
+## 개요
 
 **앱스토어**
 
