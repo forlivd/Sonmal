@@ -9,8 +9,9 @@
 간단한 의사소통은 통역사 없이 **손말**로 할 수 있습니다.
 
 수어 통역권 확장을 목표로 프로젝트를 진행하였습니다.
+<br/>
 
-*앱스토어* https://play.google.com/store/apps/details?id=com.d202.sonmal
+*앱스토어*   https://play.google.com/store/apps/details?id=com.d202.sonmal
 
 # 목차
 
