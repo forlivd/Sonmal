@@ -31,11 +31,9 @@ The project was carried out with the aim of expanding the right to interpret sig
 
 https://play.google.com/store/apps/details?id=com.d202.sonmal
 
----
 
 
-
-## 1️⃣ 기획 배경
+### 1️⃣ 기획 배경
 
 **Q1. 한국수어와 한국어 문법이 같다?**
 
@@ -65,12 +63,12 @@ https://play.google.com/store/apps/details?id=com.d202.sonmal
 
 <br/>
 
-## 2️⃣ 프로젝트 소개
+### 2️⃣ 프로젝트 소개
 
 >  실시간 수어 통역과 매크로를 이용한 수어통역권 확장
 
 
-### 👍 실시간 통역
+#### 👍 실시간 통역
 
 <img src="https://user-images.githubusercontent.com/49026286/195801301-88057f53-8387-48a6-a52d-a590bf53e38a.png" width="750" height="450">
 
@@ -94,7 +92,7 @@ https://play.google.com/store/apps/details?id=com.d202.sonmal
 
 
 
-### 👍 매크로
+#### 👍 매크로
 
 
 ![image](https://user-images.githubusercontent.com/49026286/194220677-9f1ef74c-fd9f-4e69-ba30-ca3a7449b3bc.png)
@@ -111,7 +109,7 @@ https://play.google.com/store/apps/details?id=com.d202.sonmal
 
 
 
-### 👍 통화
+#### 👍 통화
 
 
 ![image](https://user-images.githubusercontent.com/49026286/195800558-f05ff4f0-4234-4a00-8e56-066fc0040193.png)
