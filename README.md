@@ -20,7 +20,7 @@ The project was carried out with the aim of expanding the right to interpret sig
 
 ---
 
-# 🧷 링크
+# 개요
 
 **앱스토어**
 
@@ -247,4 +247,4 @@ feat: 회원관리 | 네이버 로그인 기능 추가
 
 ---
 
-
+## 담당 역할 및 
