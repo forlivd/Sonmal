@@ -19,7 +19,7 @@
 
 [1. 개요](#개요)
 
-[2. 담당 역할 및 구현](#담당-역할-및-구현)
+[2. 담당 역할 및 구현](#담당역할-및-구현)
 
 ## 개요
 
@@ -236,4 +236,44 @@ feat: 회원관리 | 네이버 로그인 기능 추가
 
 ---
 
-## 담당 역할 및 구현
+## 담당역할 및 구현
+### 사용 기술
+```
+AndroidStudio Kotlin MVVM Retrofit OKHttp Jwt Social-Login TTS Paging 
+Bottom-Navigation RecyclerView DataBinding ViewModel LiveData
+
+Git Jira Notion Mattermost Swagger Figma GanttChart
+```
+
+### 기획 및 발표
+```
+한정된 시간동안 구현해야하는 인공지능 기능의 학습에 걸리는 시간을 고려하여, 초반 기획 발표를 여러 분기로 준비하였습니다.
+ㄴ 인공지능 난이도 (상) 실시간 영상 처리 / 실패하면 난이도 (중) 실시간 이미지 처리
+ㄴ 위 두 가지 경우 모두 적용될 수 있도록 기획 및 발표를 진행했습니다.
+```
+
+### Application의 Rest Server와의 API 통신 기능
+```
+OKHttp(Interceptor)와 Retrofit으로 Rest Server와의 통신을 구현하였으며, 비동기 처리로 Coroutine을 사용하였습니다.
+```
+
+### JWT 인증 
+```
+JWT로 인증을 하였으며, 짧은 기간의 access 토큰 만료시 긴 기간의 refresh 토큰으로 새롭게 access 토큰을 발급받도록 하였습니다.
+
+이를 기반으로 유효한 토큰일 경우 자동 로그인이 가능하도록 하였습니다.
+```
+
+### 회원 관리 기능
+```
+Social 계정을 연동하여 회원가입, 회원 탈퇴, 로그인 등 회원 관리가 가능하도록 하였습니다.
+```
+
+### 매크로 기능
+```
+매크로 등록시 이모티콘, 영상, Text 중 선택하여 등록할 수 있도록 구현하였습니다.
+ㄴ 영상을 찍은 후 미리보기로 확인하고 Server로 전송하도록 하였습니다.
+
+등록한 분류별로 매크로를 조회하고, TTS로 음성 출력을 할 수 있도록 하였습니다.
+```
+
