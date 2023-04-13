@@ -19,7 +19,7 @@
 
 [1. 개요](#개요)
 
-[2. 담당 역할 및 구현](#담당역할-및-구현)
+[2. 사용 기술 및 담당 역할](#사용-기술-및-담당-)
 
 ## 개요
 
@@ -236,7 +236,7 @@ feat: 회원관리 | 네이버 로그인 기능 추가
 
 ---
 
-## 담당역할 및 구현
+## 사용 기술 및 담당 역할
 ### 사용 기술
 <table>
 <tr><th rowspan="1">Used</th><td>AndroidStudio / Kotlin / MVVM / Retrofit / Coroutine</td></tr>
@@ -244,6 +244,8 @@ feat: 회원관리 | 네이버 로그인 기능 추가
 <tr><th rowspan="1">New</th><td> Jwt / Interceptor / Social Login / TTS / Paging / Multipart </td></tr>
 <tr><th rowspan="1">Collabo</th><td>Git / Jira / Notion / Mattermost / Swagger / GanttChart / Figma</td></tr>
 </table>
+
+<br/>
 
 ### Application의 Rest Server와의 API 통신 기능
 ```
@@ -269,6 +271,8 @@ Social 계정을 연동하여 회원가입, 회원 탈퇴, 로그인 등 회원 
 
 등록한 분류별로 매크로를 조회하고, TTS로 음성 출력을 할 수 있도록 하였습니다.
 ```
+
+<br>
 
 ### 기획 및 발표
 ```
