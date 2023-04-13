@@ -238,19 +238,12 @@ feat: 회원관리 | 네이버 로그인 기능 추가
 
 ## 담당역할 및 구현
 ### 사용 기술
-```
-AndroidStudio Kotlin MVVM Retrofit OKHttp Jwt Social-Login TTS Paging 
-Bottom-Navigation RecyclerView DataBinding ViewModel LiveData
-
-Git Jira Notion Mattermost Swagger Figma GanttChart
-```
-
-### 기획 및 발표
-```
-한정된 시간동안 구현해야하는 인공지능 기능의 학습에 걸리는 시간을 고려하여, 초반 기획 발표를 여러 분기로 준비하였습니다.
-ㄴ 인공지능 난이도 (상) 실시간 영상 처리 / 실패하면 난이도 (중) 실시간 이미지 처리
-ㄴ 위 두 가지 경우 모두 적용될 수 있도록 기획 및 발표를 진행했습니다.
-```
+<table>
+<tr><th rowspan="1">Used</th><td>AndroidStudio / Kotlin / MVVM / Retrofit / Coroutine</td></tr>
+<tr><th rowspan="1">Used</th><td>Bottom Navigation / RecyclerView / DataBinding / ViewModel / LiveData</td></tr>
+<tr><th rowspan="1">New</th><td> Jwt / Interceptor / Social Login / TTS / Paging / Multipart </td></tr>
+<tr><th rowspan="1">Collabo</th><td>Git / Jira / Notion / Mattermost / Swagger / GanttChart / Figma</td></tr>
+</table>
 
 ### Application의 Rest Server와의 API 통신 기능
 ```
@@ -277,3 +270,9 @@ Social 계정을 연동하여 회원가입, 회원 탈퇴, 로그인 등 회원 
 등록한 분류별로 매크로를 조회하고, TTS로 음성 출력을 할 수 있도록 하였습니다.
 ```
 
+### 기획 및 발표
+```
+한정된 시간동안 구현해야하는 인공지능 기능의 학습에 걸리는 시간을 고려하여, 초반 기획 발표를 여러 분기로 준비하였습니다.
+ㄴ 인공지능 난이도 (상) 실시간 영상 처리 / 실패하면 난이도 (중) 실시간 이미지 처리
+ㄴ 위 두 가지 경우 모두 적용될 수 있도록 기획 및 발표를 진행했습니다.
+```
